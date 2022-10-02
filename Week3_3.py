@@ -1,0 +1,5 @@
+R, G, B = input().split(' ')
+RR = int(R,16)
+GG = int(G,16)
+BB = int(B,16)
+print("R:",RR," G:",GG," B:",BB ,sep='')
